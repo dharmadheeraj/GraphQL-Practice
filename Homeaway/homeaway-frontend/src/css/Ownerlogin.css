@@ -1,0 +1,38 @@
+.jumbotron#OwnerLogin {
+    background-color: #fff;
+    background-image: none;
+}
+
+.login-container
+{
+    background-color: #dbdbdb;
+    margin-top: 100px;
+    height: 550px;
+    width: 200vh;
+    position: relative;
+    margin-left: auto !important;
+    align-items: center !important;
+
+}
+
+.loginimg
+{
+    align-content: flex-start;
+    margin-bottom: auto;
+    margin-top: auto;
+    padding-top: auto;
+    padding-bottom: auto;
+    size : 50pc;
+}
+
+.login-form
+{
+    margin-top: 10%;
+    text-align: left;
+    align-items: flex-end;
+}
+
+.SignUp
+{
+    color: blue;
+}

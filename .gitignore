@@ -1,0 +1,9 @@
+homeaway-frontend/.idea
+homeaway-frontend/node_modules
+
+Homwaway Backend/node_modules/
+Homwaway Backend/.idea
+
+*.iml
+*.xml
+Homeaway/Homwaway Backend/node_modules

@@ -1,0 +1,15 @@
+.jumbotron .jumbotron
+{
+    background: none
+}
+
+.jumbotron .HeadLine
+{
+    color: #fff;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: .1px;
+    line-height: normal;
+    margin: 0 10px 10px;
+
+}

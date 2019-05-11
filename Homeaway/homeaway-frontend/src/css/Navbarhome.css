@@ -1,0 +1,24 @@
+.navbar-home
+{
+    background: #ffffff !important;
+
+}
+
+.navbar-home .navbar-opaque
+{
+    background: #fff !important;
+}
+
+.navbar-home .nav-item .nav-link
+{
+    color: black;
+    font-family: Lato,Arial,Helvetica Neue,sans-serif;
+    line-height: 1.5rem;
+    min-height: 48px;
+
+}
+
+.navbar-home .nav-item .btn {
+    background-color: blue;
+    border-color: blue;
+}
